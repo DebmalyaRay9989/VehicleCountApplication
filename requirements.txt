@@ -13,7 +13,7 @@ keras==2.4.3
 Pillow==8.1.0
 numpy==1.19.3
 MarkupSafe==1.1.1
-numpy>=1.9.2
+numpy==1.19.3
 scipy>=0.15.1
 scikit-learn>=0.18
 pandas
